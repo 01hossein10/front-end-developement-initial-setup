@@ -1,0 +1,1 @@
+This is the initial setup of an front-end developement project.

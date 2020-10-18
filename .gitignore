@@ -1,0 +1,5 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore all the css files (because we keep track of sass/scss files instead of css files)
+dist/**/*.css
